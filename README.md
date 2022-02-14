@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Azman Sukor, currently working in Kiwitech Sdn Bhd as a Junior Data Scientist.
 <!--
 **azman74/azman74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
